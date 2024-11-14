@@ -17,4 +17,10 @@ CHIP PC {
 
     PARTS:
     // Put your code here:
+    Mux16(a = true , b = false , sel = reset , out = re);
+    Mux4Way16(a = outcache , b = incout , c = in , d = in , sel[1] = load , sel[0] = inc , out = loadinc);
+    And16(a = re , b = loadinc , out = outt);
+    Register(in = outt , load = true , out = outcache);
+    Inc16(in = outcache , out = incout);
+    And16(a = outcache , b = true , out = out);
 }
