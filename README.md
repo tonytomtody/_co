@@ -12,14 +12,14 @@
 <hr>
 期中作業
 <ul>
-  <li>[第一周練習題](https://github.com/tonytomtody/_co/tree/master/01)</li>
-  <li>[第二周練習題](https://github.com/tonytomtody/_co/tree/master/01)</li>
-  <li>[第三周練習題](https://github.com/tonytomtody/_co/tree/master/02)</li>
-  <li>[第四周練習題](https://github.com/tonytomtody/_co/tree/master/02)</li>
-  <li>[第五周練習題](https://github.com/tonytomtody/_co/tree/master/03)</li>
-  <li>[第六周練習題](https://github.com/tonytomtody/_co/tree/master/03)</li>
-  <li>[第七周練習題](https://github.com/tonytomtody/_co/tree/master/04)</li>
-  <li>[第八周練習題](https://github.com/tonytomtody/_co/tree/master/04)</li>
-  <li>[第九周練習題](https://github.com/tonytomtody/_co/tree/master/05)</li>
-  <li>[第十周練習題](https://github.com/tonytomtody/_co/tree/master/05)</li>
+  <li><a href="/01/">第一周練習題</a></li>
+  <li><a href="/01/">第二周練習題</a></li>
+  <li><a href="/02/">第三周練習題</a></li>
+  <li><a href="/02/">第四周練習題</a></li>
+  <li><a href="/03/">第五周練習題</a></li>
+  <li><a href="/03/">第六周練習題</a></li>
+  <li><a href="/04/">第七周練習題</a></li>
+  <li><a href="/04/">第八周練習題</a></li>
+  <li><a href="/05/">第九周練習題</a></li>
+  <li><a href="/05/">第十周練習題</a></li>
 </ul>
